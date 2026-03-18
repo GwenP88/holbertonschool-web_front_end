@@ -1,4 +1,4 @@
-![Advanced CSSL Banner](/home/gpichot/holbertonschool-web_front_end/assets/banner.png) 
+![Advanced CSSL Banner](../assets/banner.png) 
 # Project - Advanced CSS — Techium Project
 
 ## Description
