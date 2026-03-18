@@ -58,5 +58,5 @@ The homepage (`index.html`) includes the following sections:
 ## Authors
 **Gwenaelle PICHOT**
 - Student at Holberton School
-- Track: Higher Level Programming
-- Project: JavaScript - Warm up
+- Track: holbertonschool-web_front_end
+- Project: Advanced HTML
