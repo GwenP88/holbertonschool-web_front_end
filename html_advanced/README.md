@@ -1,4 +1,4 @@
-![Advanced HTML Banner](assets/banner.png)
+![Advanced HTML Banner](../assets/banner.png)
 # Project - Advanced HTML — Techium Project
 
 ## Description
