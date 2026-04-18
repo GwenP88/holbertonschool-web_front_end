@@ -444,26 +444,26 @@ xdg-open index.html
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./assets/site1.png" alt="holbertonschool-web-front-end image 1" width="200">
+      <img src="./assets/site1.png" alt="holbertonschool-web-front-end image 1">
     </td>
     <td align="center">
-      <img src="./assets/site2.png" alt="holbertonschool-web-front-end image 2" width="200">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./assets/site3.png" alt="holbertonschool-web-front-end image 3" width="200">
-    </td>
-    <td align="center">
-      <img src="./assets/site4.png" alt="holbertonschool-web-front-end image 4" width="200">
+      <img src="./assets/site2.png" alt="holbertonschool-web-front-end image 2">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./assets/site5.png" alt="holbertonschool-web-front-end image 5" width="200">
+      <img src="./assets/site3.png" alt="holbertonschool-web-front-end image 3">
     </td>
     <td align="center">
-      <img src="./assets/site6.png" alt="holbertonschool-web-front-end image 6" width="200">
+      <img src="./assets/site4.png" alt="holbertonschool-web-front-end image 4">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/site5.png" alt="holbertonschool-web-front-end image 5">
+    </td>
+    <td align="center">
+      <img src="./assets/site6.png" alt="holbertonschool-web-front-end image 6">
     </td>
   </tr>
 </table>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/front.png" alt="holbertonschool-web-front-end image" width="200">
+  <img src="./assets/front.png" alt="holbertonschool-web-front-end image">
 </p>
 
 # holbertonschool-web_front_end
