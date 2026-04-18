@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpeg" alt="holbertonschool-web-front-end Banner">
+</p>
+
 # HTML Advanced
 
 > Building the skeleton of a website — because even the most beautiful house needs solid bones.
@@ -62,6 +66,10 @@ xdg-open 0-index.html
 </p>
 
 ---
+
+<p align="center">
+  <img src="./assets/wireframe.png" alt="holbertonschool-web-front-end Banner">
+</p>
 
 ## ✨ Features
 

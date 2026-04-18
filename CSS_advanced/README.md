@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" alt="holbertonschool-web-front-end Banner">
+</p>
+
 # CSS Advanced
 
 > Making the Techium website look as good as it works — one selector at a time.
@@ -436,6 +440,33 @@ xdg-open index.html
 **Files:** `styles/32-style.css`
 
 ---
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/site1.png" alt="holbertonschool-web-front-end image 1" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/site2.png" alt="holbertonschool-web-front-end image 2" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/site3.png" alt="holbertonschool-web-front-end image 3" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/site4.png" alt="holbertonschool-web-front-end image 4" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/site5.png" alt="holbertonschool-web-front-end image 5" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/site6.png" alt="holbertonschool-web-front-end image 6" width="200">
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Contributions & Acknowledgements
 
